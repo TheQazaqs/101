@@ -47,5 +47,5 @@ function draw()
 	image(img,0,0);
 
 	//Write your code below here ...
-    rect(280, 80, 140, 240); // Example coordinates: adjust x, y, width, height as needed
+    rect(300, 100, 700, 550); // Example coordinates: adjust x, y, width, height as needed
 }
